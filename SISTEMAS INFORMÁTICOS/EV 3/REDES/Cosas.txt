@@ -1,0 +1,7 @@
+General device enp0s3
+Adress 10.0.2.15/24
+gateway 10.0.2.2
+DNS 10.196.60.2 (Traducen las IP a dominios)
+IP 127.0.0.1
+
+C:\Windows\System32\drivers\etc\hosts
