@@ -1,0 +1,23 @@
+Oracle VM VirtualBOX… a) Es un hipervisor alojado
+La siguiente ejecución actualiza el sistema Ubuntu: c) sudo apt update
+¿Cuál de los siguientes componentes de una placa base determina el funcionamiento de los demás? c) Chipset
+Firmware es considerado un software… c) De sistema
+Los sistemas operativos que gestionan la red, los usuarios y los recursos de forma centralizada y consciente por todos ellos se denominan… b) Sistema operativo en red
+¿Qué parte del sistema operativo siempre reside en memoria principal? b) El kernel
+¿Qué es la fragmentación interna? a) Espacio desperdiciado interno al clúster de un archivo
+El fichero /etc/fstab: a) Automatiza el proceso de montaje de particiones
+En Ubuntu, cuando modificamos el contenido de un archivo que tiene tres enlaces duros… c) Los datos en el fichero modificado, así como los ficheros con enlaces duros se ven afectados, ya que todos tienen el mismo número de i-nodo
+Un sistema RAID 5… (selecciona la respuesta incorrecta) b) Es más ineficiente que RAID 1
+El directorio \System32 contiene: b) Archivos DLL de 32 bits o 64 bits de Microsoft Windows
+Cuando se ejecuta en una terminal cat /etc/passwd|grep ^Luis: en Ubuntu obtendremos: a) Aquellas líneas del fichero /etc/passwd que comiencen por “Luis”
+En Ubuntu, cuando un usuario se encuentra en el directorio /home/luis/recursos/varios, ¿cómo podrá situarse en el directorio /home/luis? c) cd …/…
+Los servidores de ficheros… (indica la falsa) a) Pueden utilizar los protocolos SFTP, FTPS y SLFTP
+Los servidores de aplicaciones hacen uso de una arquitectura de tres capas formada por… c) Presentación , aplicación y datos.
+Los derechos de usuarios se clasifican en: b) Derechos de inicio de sesión y privilegios específicos.
+El protocolo HTTP se corresponde con la capa de: c) Aplicación
+¿Qué comandos permiten monitorizar los puertos de comunicaciones de un sistema? c) ss y netstat
+En la copia de seguridad diferencial: b) Se hace una copia de seguridad de aquellos archivos que hayan cambiado desde la última copia de seguridad total. 
+Las directivas de seguridad local… b) Se definen mediante GPO.
+a. Para representar el número 10,25 en el estándar IEEE 754 de simple precisión, primero debemos convertirlo a binario. El número entero 10 se convierte en 1010 y el número decimal 0,25 se convierte en 0,01 multiplicando repetidamente por 2 y tomando la parte entera del resultado. Por lo tanto, el número completo en binario es 1010,01. Luego, normalizamos este número moviendo el punto decimal hacia la izquierda hasta que quede un solo dígito a la izquierda del punto decimal: 1,01001 x 2^3. El exponente 3 se convierte en binario (11) y se suma al sesgo de 127 para obtener el exponente final: 130 (10000010 en binario). La mantisa es simplemente la parte fraccionaria del número normalizado (01001), completada con ceros hasta tener una longitud de 23 bits. Finalmente, el bit de signo es 0 ya que el número es positivo. Por lo tanto, la representación final del número 10,25 en el estándar IEEE 754 de simple precisión es: 0 10000010 01001000000000000000000.
+b. Para convertir el número octal 2158 a decimal, podemos utilizar la fórmula de conversión de base: (2 x 8^2) + (1 x 8^1) + (5 x 8^0) = (128) + (8) + (5) = 141.
+c. Para convertir el número hexadecimal 47,D1016 a octal, primero debemos convertirlo a binario. El número hexadecimal 47,D1016 se convierte en 01000111110100010000 en binario. Luego, dividimos este número binario en grupos de tres bits comenzando desde el punto decimal hacia la derecha y hacia la izquierda: 010|001|111|101|000|100|00. Completamos con ceros a la izquierda del primer grupo y a la derecha del último grupo para obtener grupos completos de tres bits: 000|010|001|111|101|000|100|000. Finalmente, convertimos cada grupo de tres bits a su equivalente en octal: 02176400. Por lo tanto, el número hexadecimal 47,D1016 se convierte en 21764008 en octal.
